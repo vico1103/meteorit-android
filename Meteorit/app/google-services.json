@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "147709687990",
+    "firebase_url": "https://meteorit-22f9e.firebaseio.com",
+    "project_id": "meteorit-22f9e",
+    "storage_bucket": "meteorit-22f9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147709687990:android:ae01b8f898ef543b",
+        "android_client_info": {
+          "package_name": "com.vico.meteorit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147709687990-rp6815kaonbra0vaqn35js9clb3h187c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5xnpva3C-UVCFOQlT2dSrZ4r592-7Fzs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
