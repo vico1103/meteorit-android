@@ -11,7 +11,7 @@ import retrofit2.http.Path;
  * Created by Peter Vican on 23.4.2017.
  */
 
-public interface RetrofitService {
+public interface MeteorService {
 
 
   @Headers("X-App-Token: e0RcXuzbiu5HdihERyrqxJAQH")
