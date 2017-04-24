@@ -15,7 +15,7 @@ public class RetrofitInstance {
 
   private static final String TAG = RetrofitInstance.class.getSimpleName();
 
-  public String URL = "https://data.nasa.gov/resource";
+  public String URL = "https://data.nasa.gov/resource/";
   private Retrofit instanceRetrofit;
   private MeteorService meteorService;
   private static RetrofitInstance instanceBaseRetrofit = new RetrofitInstance();
